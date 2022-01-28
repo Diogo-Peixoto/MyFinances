@@ -19,3 +19,5 @@
     <li>Typescript</li>
     <li>Styled Components</li>
 </ul>
+
+<img src="https://user-images.githubusercontent.com/71359547/151544203-5725fdc0-ea51-44e9-9c99-5ec93eba00bc.gif">
