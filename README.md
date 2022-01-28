@@ -18,7 +18,7 @@
     <li>ReactJS</li>
     <li>Typescript</li>
     <li>Styled Components</li>
-</ul>
+</ul><br>
 
 <img src="https://user-images.githubusercontent.com/71359547/151544203-5725fdc0-ea51-44e9-9c99-5ec93eba00bc.gif">
 <img style="width: 670px;" src="https://user-images.githubusercontent.com/71359547/151544316-031a3a29-94e8-4aa5-ac3e-1eb994394da7.PNG">
