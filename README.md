@@ -14,3 +14,8 @@
     <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/149498332-633c8967-ea84-49de-953f-9f1176b1a283.png">
     <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/151541688-47c2d4b2-298b-4233-9294-208dcf30245a.png">
   </div>
+ <ul>
+    <li>ReactJS</li>
+    <li>Typescript</li>
+    <li>Styled Components</li>
+</ul>
