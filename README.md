@@ -23,3 +23,6 @@
 <img src="https://user-images.githubusercontent.com/71359547/151544203-5725fdc0-ea51-44e9-9c99-5ec93eba00bc.gif">
 <img style="width: 670px;" src="https://user-images.githubusercontent.com/71359547/151544316-031a3a29-94e8-4aa5-ac3e-1eb994394da7.PNG">
 <img style="width: 670px;" src="https://user-images.githubusercontent.com/71359547/151544360-0e981d25-a0f7-4653-b390-34dc92009fcb.PNG">
+
+<a href="mailto:diogosoarespeixoto41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/diogo-soares-peixoto-21063421b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
