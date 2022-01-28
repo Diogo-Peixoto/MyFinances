@@ -3,7 +3,7 @@
 <p>MYfinance é um projeto criado com ReactJs , o seu intuito é organizar as finanças do usuário  através  das suas informações de entrada e saída.</p>
 <p>Esse projeto foi baseado nos ensinamentos do curso  Ignite Reactjs ministrado pela Rocketseat.</p>
 
-##👨‍💻 Projeto em Desenvolvimento
+## 👨‍💻 Projeto em Desenvolvimento
 <p>🛠 Back-end em Desenvolvimento</p>
 <p>🛠 Novas Funcionalidades no Front-end</p>
 
