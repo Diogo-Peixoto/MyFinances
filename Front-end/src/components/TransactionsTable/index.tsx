@@ -2,6 +2,9 @@ import { useTransactions } from "../../hooks/useTransactions";
 
 import { Container } from "./styles";
 
+import  edit  from "../../assets/edit.png"
+import  trash  from "../../assets/trash.png"
+
 
 export function TransactionsTable(){
     const { transactions } = useTransactions()
@@ -31,6 +34,10 @@ export function TransactionsTable(){
                                 <td>{transactions.category}</td>
                                 <td>
                                 {new Intl.DateTimeFormat('pr-BR').format(new Date(transactions.createdAt))}
+                                </td>
+                                <td>
+                                    <img src={edit} />
+                                    <img src={trash} />
                                 </td>
                             </tr>
                         

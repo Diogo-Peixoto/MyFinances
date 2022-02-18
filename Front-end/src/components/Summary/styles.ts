@@ -27,8 +27,13 @@ export const Container = styled.div`
         }
 
         &.highlight-background{
-            background: var(--green);
+            background: #4D4D4D;
             color: #FFF;
         }
+        transition: transform 0.3s;
+    }
+    
+    div:hover{
+        transform: translateX(10px) translateY(-20px);
     }
 `
